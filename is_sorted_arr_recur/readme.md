@@ -1,1 +1,1 @@
-## Check if array is sorted or not using recursion"
+## Check if array is sorted or not using recursion
